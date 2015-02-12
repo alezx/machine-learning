@@ -1,2 +1,2 @@
 # machine-learning
-some machine learning exercises
+Octave functions for machine learning
